@@ -1,0 +1,17 @@
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\bin\Debug\net8.0\SolidAndGoF.exe
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\bin\Debug\net8.0\SolidAndGoF.deps.json
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\bin\Debug\net8.0\SolidAndGoF.runtimeconfig.json
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\bin\Debug\net8.0\SolidAndGoF.dll
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\bin\Debug\net8.0\SolidAndGoF.pdb
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\obj\Debug\net8.0\SolidAndGoF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\obj\Debug\net8.0\SolidAndGoF.AssemblyInfoInputs.cache
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\obj\Debug\net8.0\SolidAndGoF.AssemblyInfo.cs
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\obj\Debug\net8.0\SolidAndGoF.csproj.CoreCompileInputs.cache
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\obj\Debug\net8.0\SolidAndGoF.dll
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\obj\Debug\net8.0\refint\SolidAndGoF.dll
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\obj\Debug\net8.0\SolidAndGoF.pdb
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\obj\Debug\net8.0\SolidAndGoF.genruntimeconfig.cache
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\obj\Debug\net8.0\ref\SolidAndGoF.dll
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\obj\Debug\net8.0\SolidAndGoF.csproj.AssemblyReference.cache
+C:\Users\CristianCamiloMoreno\Documents\Repositories\SolidAndGoF\SolidAndGoF\obj\Debug\net8.0\SolidAndGoF.csproj.CopyComplete

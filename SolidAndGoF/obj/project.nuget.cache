@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IbwrT0i2JlnoJoAFjAnldNCGCf8cpaffff8N0+CCKBmD/w0rv4ZyqQ4dPF1t3ZV4K5Ctd08lCHxOs73GdcgYIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CristianCamiloMoreno\\Documents\\Repositories\\SolidAndGoF\\SolidAndGoF\\SolidAndGoF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CristianCamiloMoreno\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
